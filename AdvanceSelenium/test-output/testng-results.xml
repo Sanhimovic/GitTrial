@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23487" started-at="2021-12-18T06:54:15Z" finished-at="2021-12-18T06:54:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23487" started-at="2021-12-18T06:54:15Z" finished-at="2021-12-18T06:54:39Z">
+      <class name="pom.Data1">
+        <test-method status="PASS" signature="test()[pri:0, instance:pom.Data1@5a39699c]" name="test" duration-ms="23448" started-at="2021-12-18T12:24:15Z" finished-at="2021-12-18T12:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pom.Data1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
